@@ -1,6 +1,6 @@
 # Pit Stop Strategy Simulator
 
-[![CI](https://github.com/ukiahsperry/pit_stop_sim/actions/workflows/ci.yml/badge.svg)](https://github.com/ukiahsperry/pit_stop_sim/actions/workflows/ci.yml)
+[![CI](https://github.com/ukiah-sperry/Pit-Stop-Strategy-Simulater/actions/workflows/ci.yml/badge.svg)](https://github.com/ukiah-sperry/Pit-Stop-Strategy-Simulater/actions/workflows/ci.yml)
 
 An ASP.NET Core Web API that simulates and optimizes pit stop strategies for circuit racing. Given tire compounds and a race length, it finds the pit lap(s) that minimize total race time.
 
