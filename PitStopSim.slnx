@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PitStopSim.Api/PitStopSim.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PitStopSim.Tests/PitStopSim.Tests.csproj" />
+  </Folder>
+</Solution>
